@@ -1,0 +1,17 @@
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\bin\Debug\netstandard2.0\Projet.deps.json
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\bin\Debug\netstandard2.0\Projet.dll
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\bin\Debug\netstandard2.0\ref\Projet.dll
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\bin\Debug\netstandard2.0\Projet.pdb
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.csproj.AssemblyReference.cache
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Paginas\Imagem.xaml.g.cs
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Paginas\Texto.xaml.g.cs
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.AssemblyInfoInputs.cache
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.AssemblyInfo.cs
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.csproj.CoreCompileInputs.cache
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.dll
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\refint\Projet.dll
+C:\Users\phvieira\source\repos\Projet\Projet\Projet\obj\Debug\netstandard2.0\Projet.pdb

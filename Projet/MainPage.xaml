@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projet.MainPage">
+
+    <StackLayout>
+
+        <Label Text="Projeto Sao Camilo" TextColor="White" FontSize="Medium" HorizontalOptions="Center"/>
+
+        <Entry x:Name="txtNome" Keyboard="Chat" ReturnType="Default"/>
+
+        <Button Text="Entra" Clicked="Button_Clicked"/>
+
+
+        <Button x:Name="btnImagem" Clicked="btnImagem_Clicked" Text="Imagem"
+               BackgroundColor="Transparent" BorderColor="Black" BorderWidth="1"
+                CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
+
+        <Button x:Name="btnTexto" Clicked="btnTexto_Clicked" Text="Texto"
+                BackgroundColor="Transparent" BorderColor="Black" BorderWidth="1"
+                CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>
